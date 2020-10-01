@@ -1,0 +1,5 @@
+// Proprietà per ottenere una lista inline
+@mixin listInline{
+  list-style: none;
+  display: inline;
+}
